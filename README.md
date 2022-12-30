@@ -2,7 +2,7 @@
 
 # Dockerized React App
 
-#Building images
+#Building image
 
 	docker build . -t dockerized_react
 
