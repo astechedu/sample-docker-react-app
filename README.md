@@ -8,7 +8,7 @@
 
 #Running container
 
-	docker run --name react-app -p 8080:80 -d dockerized_react
+	docker run --name react-app -p 8080:3000 -d dockerized_react
 
 
 
