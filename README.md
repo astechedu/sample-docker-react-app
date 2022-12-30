@@ -2,6 +2,16 @@
 
 # Dockerized React App
 
+#Building images
+
+	docker build . -t dockerized_react
+
+#Running container
+
+	docker run --name react-app -p 8080:80 -d dockerized_react
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
