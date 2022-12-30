@@ -10,7 +10,11 @@
 
 	docker run --name react-app -p 8080:3000 -d dockerized_react
 
+#On Browser
 
+	http://localhost:8080
+
+# React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
